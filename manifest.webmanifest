@@ -1,0 +1,9 @@
+{
+  "name": "단어톡 - 나만의 단어장",
+  "short_name": "단어톡",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101323",
+  "theme_color": "#101323",
+  "lang": "ko"
+}
